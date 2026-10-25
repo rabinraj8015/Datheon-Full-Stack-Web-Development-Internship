@@ -21,7 +21,7 @@ A responsive task management application with task creation, editing, deletion, 
 
 **Source Code:** [Task 2 - Task Manager](./Task-2-Task-Manager/)
 
-**Live Demo:** Coming soon.
+**Live Demo:** [View Task Manager](https://datheon-task-manager.vercel.app/)
 
 ## Technologies Used
 - HTML5
